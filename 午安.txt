@@ -1,0 +1,7 @@
+{{date.DATA}}（{{region.DATA}}）                      
+{{day.DATA}}
+{{wufan.DATA}}
+网易云热评：{{hotreview.DATA}}
+朋友圈文案：{{pyqwenan.DATA}}
+彩虹屁：{{caihongpi.DATA}}
+
